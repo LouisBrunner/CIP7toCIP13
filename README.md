@@ -60,3 +60,9 @@ References
 ==========
 
 http://www.ucdcip.org/telechargements/CIP_Calcul_de_la_cle_ucd.pdf
+
+
+Author
+======
+
+Created by [Louis Brunner](https://github.com/Hyrrmadr).
